@@ -28,6 +28,6 @@ My ultimate goal is to leverage my technical expertise and creativity to make a 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![Saraj Profile Summary]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanisaraj
+![Saraj's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanisaraj&theme=github)
