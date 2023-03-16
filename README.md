@@ -5,8 +5,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aswanisaraj&label=PROFILE+VIEWS)
 
-As a first semester CS student at Punjab University, I am passionate about exploring the depths of computer science and software development. With a year of experience using Linux and a strong foundation in programming languages such as Python, C, and C++, I am constantly seeking new challenges and opportunities to expand my knowledge. 
-I am currently polishing my skills in web development, driven by a desire to create meaningful and impactful digital experiences.
+As a first semester CS student at Punjab University, I am passionate about exploring the depths of computer science and software development. With a year of experience using Linux and a strong foundation in programming languages such as Python, C, and C++, I am constantly seeking new challenges and opportunities to expand my knowledge.  
+
+I am currently polishing my skills in web development, driven by a desire to create meaningful and impactful digital experiences.  
 My ultimate goal is to leverage my technical expertise and creativity to make a positive impact on the world through innovative and transformative technological solutions.
 
 * ⚡ Fun fact: An avid chess player ♟️.
@@ -20,11 +21,12 @@ My ultimate goal is to leverage my technical expertise and creativity to make a 
 
 ### Technology Stack:
 
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
+{![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+
 </br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
