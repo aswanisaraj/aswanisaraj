@@ -5,10 +5,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aswanisaraj&label=PROFILE+VIEWS)
 
-As a first semester CS student at Punjab University, I am passionate about exploring the depths of computer science and software development. With a year of experience using Linux and a strong foundation in programming languages such as Python, C, and C++, I am constantly seeking new challenges and opportunities to expand my knowledge.  
-
-I am currently polishing my skills in web development, driven by a desire to create meaningful and impactful digital experiences.  
-My ultimate goal is to leverage my technical expertise and creativity to make a positive impact on the world through innovative and transformative technological solutions.
+As a second-semester CS student at Punjab University, I have been passionately exploring the depths of computer science and software development. With over a year of experience using Linux and a strong foundation in programming languages such as Python, C, and C++, I am constantly seeking new challenges and opportunities to expand my knowledge.
+Currently, I am focusing on polishing my skills in web development, specifically in Python using Flask framework, and I have gained a good understanding of SQL for working with databases. Moreover, I have acquired knowledge in HTML, and CSS, and I am now venturing into the MERN stack (MongoDB, Express.js, React.js, Node.js) to enhance my web development capabilities further. Additionally, I have gained over a year of experience working with the command-line interface (CLI).
+Driven by a desire to create meaningful and impactful digital experiences, my ultimate goal is to leverage my technical expertise and creativity to positively impact the world through innovative and transformative technological solutions.
+In my free time, I enjoy playing chess and it serves as a way to sharpen my strategic thinking and problem-solving skills.
+I am excited to connect with fellow enthusiasts, industry professionals, and anyone who shares my passion for computer science and software development. Together, we can collaborate, learn, and create remarkable technological advancements. Thank you!
 
 * ⚡ Fun fact: An avid chess player ♟️.
 
