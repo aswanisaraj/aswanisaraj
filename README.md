@@ -1,17 +1,15 @@
 ### Hello! This is Saraj :) 👋 
 
+
+I'm a second-semester CS student at Punjab University with over a year of Linux experience and proficiency in Python, C, and C++. Currently, I'm honing my web development skills with Python (Flask), SQL, HTML, CSS, and diving into the MERN stack. My ultimate goal is to use my technical and creative abilities to make a positive impact through innovative tech solutions, while in my free time, I enjoy chess for strategic thinking and problem-solving. Excited to connect with fellow enthusiasts and industry professionals to collaborate and create tech advancements.
+* ⚡ Fun fact: An avid chess player ♟️.
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-aswanisaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/awanisaraj/)](https://www.linkedin.com/in/aswanisaraj/)
 [![Gmail Badge](https://img.shields.io/badge/-aswanisaraj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanisaraj@gmail.com)](mailto:aswanisaraj@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aswanisaraj&label=PROFILE+VIEWS)
 
-As a second-semester CS student at Punjab University, I have been passionately exploring the depths of computer science and software development. With over a year of experience using Linux and a strong foundation in programming languages such as Python, C, and C++, I am constantly seeking new challenges and opportunities to expand my knowledge.
-Currently, I am focusing on polishing my skills in web development, specifically in Python using Flask framework, and I have gained a good understanding of SQL for working with databases. Moreover, I have acquired knowledge in HTML, and CSS, and I am now venturing into the MERN stack (MongoDB, Express.js, React.js, Node.js) to enhance my web development capabilities further. Additionally, I have gained over a year of experience working with the command-line interface (CLI).
-Driven by a desire to create meaningful and impactful digital experiences, my ultimate goal is to leverage my technical expertise and creativity to positively impact the world through innovative and transformative technological solutions.
-In my free time, I enjoy playing chess and it serves as a way to sharpen my strategic thinking and problem-solving skills.
-I am excited to connect with fellow enthusiasts, industry professionals, and anyone who shares my passion for computer science and software development. Together, we can collaborate, learn, and create remarkable technological advancements. Thank you!
-
-* ⚡ Fun fact: An avid chess player ♟️.
 
 ### Operating Systems: 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
