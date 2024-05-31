@@ -1,7 +1,7 @@
 ### Hello! This is Saraj :) 👋 
 
 
-I'm a second-semester CS student at Punjab University with over a year of Linux experience and proficiency in Python, C, and C++. Currently, I'm honing my web development skills with Python (Flask), SQL, HTML, CSS, and diving into the MERN stack. My ultimate goal is to use my technical and creative abilities to make a positive impact through innovative tech solutions, while in my free time, I enjoy chess for strategic thinking and problem-solving. Excited to connect with fellow enthusiasts and industry professionals to collaborate and create tech advancements.
+I'm a fourth-semester CS student at Punjab University with over a year of Linux experience and proficiency in C, and C++. Currently, I'm honing my web development skills with Python (Flask), SQL, HTML, and CSS, and diving into the MERN stack. My ultimate goal is to use my technical and creative abilities to make a positive impact through innovative tech solutions. At the same time, in my free time, I enjoy chess for strategic thinking and problem-solving. Excited to connect with fellow enthusiasts and industry professionals to collaborate and create tech advancements.
 * ⚡ Fun fact: An avid chess player ♟️.
 
 
